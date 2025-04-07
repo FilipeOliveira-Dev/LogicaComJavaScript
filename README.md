@@ -1,7 +1,7 @@
 <h1 align="center">JavaScript - 7 Days of Code</h1>
 
 <a target="_blank" href="https://7daysofcode.io/matricula/logica-programacao"></a>
-<img align="center" src="https://github.com/filipe-oliveiradev/OptimusTech/assets/157177590/9c2672bf-a50a-4f32-87af-80313ac4651b" alt="Logo da 7 Days of Code">
+<img align="center" src="./assets/7DaysOfCode-JS.png" alt="Logo da 7 Days of Code">
 
 </hr>
 </hr>
@@ -13,7 +13,7 @@
   <h3><u>Descrição dos desafios:</u></h3>
   
   <li> <b>Day 01 - </b> Reescrever o código enviado via "portugol", de maneira que ele imprima as informações de maneira correta, que faça sentido e sem erros:
-  <li> <b>Day 02 - </b>
+  <li> <b>Day 02 - </b> Faz 3 perguntas ao usuário, armazena as respostas e exibe elas na tela. Pergunta se o usuário gosta da linguagem e exibe uma resposta.
   <li> <b>Day 03 - </b>
   <li> <b>Day 04 - </b>
   <li> <b>Day 05 - </b>
@@ -27,7 +27,7 @@
 ## 📌 Status do projeto: Em Andamento
 
 <li> <b>Day 01 - </b> Operações Booleanas ✅
-<li> <b>Day 02 - </b>
+<li> <b>Day 02 - </b> Variáveis ✅
 <li> <b>Day 03 - </b>
 <li> <b>Day 04 - </b>
 <li> <b>Day 05 - </b>
