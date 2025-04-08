@@ -14,7 +14,7 @@
   
   <li> <b>Day 01 - </b> Reescrever o código enviado via "portugol", de maneira que ele imprima as informações de maneira correta, que faça sentido e sem erros:
   <li> <b>Day 02 - </b> Faz 3 perguntas ao usuário, armazena as respostas e exibe elas na tela. Pergunta se o usuário gosta da linguagem e exibe uma resposta.
-  <li> <b>Day 03 - </b>
+  <li> <b>Day 03 - </b> Cria os destinos possíveis de um jogo, em que o usuário consiga escolher qual área e linguagens ele pretende estudar:
   <li> <b>Day 04 - </b>
   <li> <b>Day 05 - </b>
   <li> <b>Day 06 - </b>
@@ -28,7 +28,7 @@
 
 <li> <b>Day 01 - </b> Operações Booleanas ✅
 <li> <b>Day 02 - </b> Variáveis ✅
-<li> <b>Day 03 - </b>
+<li> <b>Day 03 - </b> Fluxo de Decisão ✅
 <li> <b>Day 04 - </b>
 <li> <b>Day 05 - </b>
 <li> <b>Day 06 - </b>
