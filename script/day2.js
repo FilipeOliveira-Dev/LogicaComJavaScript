@@ -1,4 +1,13 @@
 // DESAFIO 02 - VARIÁVEIS
+
+// O programa deve pedir para o usuário responder 3 perguntas:
+  // - Qual o seu nome?
+  // - Quantos anos você tem?
+  // - Qual linguagem de programação você está estudando?
+
+// No final, o sistema vai exibir a mensagem:
+  // "Olá [nome], você tem [idade] anos e já está aprendendo [linguagem]!"
+
 function dadosUsuario () {
     let nome = prompt("Qual é o seu nome?");
       if(nome == "") {
@@ -21,10 +30,10 @@ function dadosUsuario () {
     alert(`Olá ${nome}, você tem ${idade} anos e já está aprendendo ${linguagem}!`);
   
     let resposta = prompt(`Mas, você gosta de estudar a linguagem ${linguagem}? S/N`);
-    if (resposta == "S") {
+    if (resposta.toUpperCase() == "S") {
       alert("Muito bom! Continue estudando e você terá muito sucesso.");
     } 
-    else if (resposta == "N") {
+    else if (resposta.toUpperCase() == "N") {
       alert("Ahh que pena... Aconselho a estudar outras linguagens");
     } 
     else {

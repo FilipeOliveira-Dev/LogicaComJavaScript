@@ -1,4 +1,15 @@
 // DESAFIO 03 - FLUXO DE DECISÃO
+
+// O desafio é criar os destinos possíveis de um jogo, em que o usuário consiga escolher:
+  // 1. Se quer seguir para área de Front-End ou seguir para a área de Back-End. 
+  // 2. Caso esteja na área de Front-End, se quer aprender React ou aprender Vue. Caso esteja na área de Back-End, poderá aprender C# ou aprender Java.
+  // 3. Depois, independente das escolhas anteriores, o usuário poderá escolher entre seguir se especializando na área escolhida ou seguir se desenvolvendo para se tornar Fullstack. Você deve exibir na tela uma mensagem específica para cada escolha.
+  // 4. Por fim, pergunte quais são as tecnologias nas quais a pessoa gostaria de se especializar ou de conhecer. Então, enquanto ela continuar respondendo ok para a pergunta: “Tem mais alguma tecnologia que você gostaria de aprender?”, continue apresentando para ela o Prompt, para que ela complete o nome da tecnologia em questão. 
+  //   e, logo depois, apresente uma mensagem comentando algo sobre a linguagem inserida.
+
+// O importante é que a pessoa que estiver jogando possa sempre escolher qual decisão tomar para conseguir aprender e se desenvolver na área de programação.
+
+// FUNCAO DE DECISAO DE CARREIRA INICIAL
 function decisaoDeCarreira () {
     let area = prompt("Você quer seguir para a área de Front-End ou Back-End? (F/B)");
     area = area.toUpperCase();
@@ -20,6 +31,7 @@ function decisaoDeCarreira () {
     especializacao();
   }  
   
+  // FUNCAO DA ESPECIALIDADE FRONT-END
   function especialidadeFront () { 
     tecnologiaFront = prompt("Em Front-End, você quer apreder React ou Vue? (R/V)");
     tecnologiaFront = tecnologiaFront.toUpperCase();
@@ -34,6 +46,7 @@ function decisaoDeCarreira () {
     }
   }
     
+  // FUNCAO DA ESPECIALIDADE BACK-END
   function especialidadeBack () {
     tecnologiaBack = prompt("Em Back-End, você quer apreder C# ou Java? (C/J)");
     tecnologiaBack = tecnologiaBack.toUpperCase();
@@ -48,6 +61,7 @@ function decisaoDeCarreira () {
     }
   }
   
+  // FUNCAO DA ESPECIALIZACAO
   function especializacao () {
     let especializacao = prompt(`Você quer se especializar na área escolhida ou se tornar Fullstack? (S/N)`);
     especializacao = especializacao.toUpperCase();

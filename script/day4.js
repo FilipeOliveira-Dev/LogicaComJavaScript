@@ -3,7 +3,7 @@
 // Em seguida, o programa vai perguntar para você qual o valor que você deseja chutar e, caso você acerte, ele irá te parabenizar. Caso erre, ele vai te dar mais 2 tentativas.
 // No fim, caso você não acerte nenhuma vez, ele vai imprimir qual era o número inicial.
 
-function desafioAdinharNumero() {
+function adinharNumero() {
     let numeroParaAdivinhar = Math.floor(Math.random() * (10 - 1 + 1) + 1); // Número que o usuário deve adivinhar
     let tentativas = 3; // Número de tentativas
     let tentativasRestantes = 3

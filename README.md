@@ -15,8 +15,8 @@
   <li> <b>Day 01 - </b> Reescrever o código enviado via "portugol", de maneira que ele imprima as informações de maneira correta, que faça sentido e sem erros:
   <li> <b>Day 02 - </b> Faz 3 perguntas ao usuário, armazena as respostas e exibe elas na tela. Pergunta se o usuário gosta da linguagem e exibe uma resposta.
   <li> <b>Day 03 - </b> Cria os destinos possíveis de um jogo, em que o usuário consiga escolher qual área e linguagens ele pretende estudar:
-  <li> <b>Day 04 - </b>
-  <li> <b>Day 05 - </b>
+  <li> <b>Day 04 - </b> Criar um programa que gere um número aleatório entre 0 e 10, e o usuário digita um número tentando advinhar. O programa dá 3 tentativas, e vai informando se o número secreto é maior ou menor do que ele digitou. O programa vai mostrando quantas tentativas o usuário ainda tem, e se não acertar, o programa mostra qual é o número secreto.
+  <li> <b>Day 05 - </b> Criar um programa que pergunta ao usuário se ele deseja colocar itens em uma lista de compras, e qual a categoria desse item. O programa vai registrando o que o usuário digita, e quando o usuário não quiser mais, ele mostra na tela todos os itens, separados por categoria.
   <li> <b>Day 06 - </b>
   <li> <b>Day 07 - </b>
 <br>
@@ -29,8 +29,8 @@
 <li> <b>Day 01 - </b> Operações Booleanas ✅
 <li> <b>Day 02 - </b> Variáveis ✅
 <li> <b>Day 03 - </b> Fluxo de Decisão ✅
-<li> <b>Day 04 - </b> Mais loops e randomização
-<li> <b>Day 05 - </b> Arrays e coleções
+<li> <b>Day 04 - </b> Mais loops e randomização ✅
+<li> <b>Day 05 - </b> Arrays e coleções ✅
 <li> <b>Day 06 - </b> Remoção de Arrays
 <li> <b>Day 07 - </b> Funções em Javascript
 <br>
@@ -44,7 +44,6 @@ Projeto desenvolvido utilizando as seguintes tecnologias:
 <li> HTML
 <li> CSS
 <li> JAVASCRIPT
-<li> FIGMA
 <br>
       
 </div>
