@@ -29,10 +29,10 @@
 <li> <b>Day 01 - </b> Operações Booleanas ✅
 <li> <b>Day 02 - </b> Variáveis ✅
 <li> <b>Day 03 - </b> Fluxo de Decisão ✅
-<li> <b>Day 04 - </b>
-<li> <b>Day 05 - </b>
-<li> <b>Day 06 - </b>
-<li> <b>Day 07 - </b>
+<li> <b>Day 04 - </b> Mais loops e randomização
+<li> <b>Day 05 - </b> Arrays e coleções
+<li> <b>Day 06 - </b> Remoção de Arrays
+<li> <b>Day 07 - </b> Funções em Javascript
 <br>
 <br>
 
@@ -41,13 +41,23 @@
 
 Projeto desenvolvido utilizando as seguintes tecnologias:
 
-<li> <img src="https://img.shields.io/badge/JAVASCRIPT-E34F26?style=for-the-badge&logo=JavaScript&logoColor=white" alt="Logo do JavaScript">
-<li> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Logo do Github">
-<br>
+<li> HTML
+<li> CSS
+<li> JAVASCRIPT
+<li> FIGMA
 <br>
       
 </div>
 
-## 👨🏻‍💻 Desenvolvedor: 
-<a target="_blank" href="https://www.linkedin.com/in/filipeoliveiradasilva/">
-<img src="https://github.com/filipe-oliveiradev/aluraplus/assets/157177590/2f71879e-d9b9-4cb2-b89d-81586805a738" alt="Contatos do Filipe Oliveira"></a>
+## 👨🏻‍💻 Desenvolvedor:
+
+<li> <b>E-mail:</b> <a href="mailto:filipe.osilvadev@gmail.com">Filipe.osilvadev@gmail.com</a>
+<li> <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/filipeoliveiradasilva/">Filipe Oliveira</a>
+<li> <b>Estudos:</b> <a href="https://filipeoliveira-dev.github.io/Plataformas-De-Estudo/">Minhas Plataformas de Estudo</a>
+
+    Sinta-se à vontade para explorar meus repositórios e entrar em contato! 😊
+
+---
+<p align="center">
+  <i>"Aprender é a única coisa que a mente nunca se cansa, nunca tem medo e nunca se arrepende." - <b>Leonardo da Vinci</b></i>
+</p>
