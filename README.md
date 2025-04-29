@@ -17,7 +17,7 @@
   <li> <b>Day 03 - </b> Cria os destinos possíveis de um jogo, em que o usuário consiga escolher qual área e linguagens ele pretende estudar:
   <li> <b>Day 04 - </b> Criar um programa que gere um número aleatório entre 0 e 10, e o usuário digita um número tentando advinhar. O programa dá 3 tentativas, e vai informando se o número secreto é maior ou menor do que ele digitou. O programa vai mostrando quantas tentativas o usuário ainda tem, e se não acertar, o programa mostra qual é o número secreto.
   <li> <b>Day 05 - </b> Criar um programa que pergunta ao usuário se ele deseja colocar itens em uma lista de compras, e qual a categoria desse item. O programa vai registrando o que o usuário digita, e quando o usuário não quiser mais, ele mostra na tela todos os itens, separados por categoria.
-  <li> <b>Day 06 - </b>
+  <li> <b>Day 06 - </b> Criar a opção de remover algum item da lista, mostrando a lista atual. O programa remove o que o usuário pediu, e imprime a confirmação, caso não seja encontrado o item na lista, deverá exibir uma mensagem avisando.
   <li> <b>Day 07 - </b>
 <br>
    
@@ -31,7 +31,7 @@
 <li> <b>Day 03 - </b> Fluxo de Decisão ✅
 <li> <b>Day 04 - </b> Mais loops e randomização ✅
 <li> <b>Day 05 - </b> Arrays e coleções ✅
-<li> <b>Day 06 - </b> Remoção de Arrays
+<li> <b>Day 06 - </b> Remoção de Arrays ✅
 <li> <b>Day 07 - </b> Funções em Javascript
 <br>
 <br>
