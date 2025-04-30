@@ -12,15 +12,14 @@
 
   <h3><u>Descrição dos desafios:</u></h3>
   
-  <li> <b><u>Day 01</u> - </b> Reescrever o código enviado via "portugol", de maneira que ele imprima as informações de maneira correta, que faça sentido e sem erros: <br>
-  <li> <b><u>Day 02</u> - </b> Faz 3 perguntas ao usuário, armazena as respostas e exibe elas na tela. Pergunta se o usuário gosta da linguagem e exibe uma resposta. <br>
-  <li> <b><u>Day 03</u> - </b> Cria os destinos possíveis de um jogo, em que o usuário consiga escolher qual área e linguagens ele pretende estudar: <br>
-  <li> <b><u>Day 04</u> - </b> Cria um programa que gera um número aleatório entre 0 e 10, e o usuário digita um número tentando advinhar. Ele informa se o número secreto é maior ou menor. O programa dá 3 tentativas, mostra quantas ainda faltam e se não acertar, o programa mostra qual é o número secreto. <br>
-  <li> <b><u>Day 05</u> - </b> Cria um programa de lista de compras, o usuário digita o item e a categoria. O programa registra os itens, e quando o usuário não quiser mais, ele mostra todos os itens, separados por categoria. <br>
-  <li> <b><u>Day 06</u> - </b> Cria a opção de remover algum item da lista, mostrando a lista atual. O programa remove o que o usuário pediu, e imprime a confirmação, caso não seja encontrado o item na lista, deverá exibir uma mensagem avisando.
-  <li> <b><u>Day 07</u> - </b> Cria uma calculadora onde o usuário escolhe uma opção de operação (+, -, * ou /) e depois os dois valores que deseja utilizar, o programa imprime o resultado da operação. Existe uma quinta opção de sair do programa, mostrando uma mensagem "Até a próxima".
+  <li> <b>Day 01 - </b> Reescrever o código enviado via "portugol", de maneira que ele imprima as informações de maneira correta, que faça sentido e sem erros: 
+  <li> <b>Day 02 - </b> Faz 3 perguntas ao usuário, armazena as respostas e exibe elas na tela. Pergunta se o usuário gosta da linguagem e exibe uma resposta.
+  <li> <b>Day 03 - </b> Cria os destinos possíveis de um jogo, em que o usuário consiga escolher qual área e linguagens ele pretende estudar:
+  <li> <b>Day 04 - </b> Cria um programa que gera um número aleatório entre 0 e 10, e o usuário digita um número tentando advinhar. Ele informa se o número secreto é maior ou menor. O programa dá 3 tentativas, mostra quantas ainda faltam e se não acertar, o programa mostra qual é o número secreto.
+  <li> <b>Day 05 - </b> Cria um programa de lista de compras, o usuário digita o item e a categoria. O programa registra os itens, e quando o usuário não quiser mais, ele mostra todos os itens, separados por categoria.
+  <li> <b>Day 06 - </b> Cria a opção de remover algum item da lista, mostrando a lista atual. O programa remove o que o usuário pediu, e imprime a confirmação, caso não seja encontrado o item na lista, deverá exibir uma mensagem avisando.
+  <li> <b>Day 07 - </b> Cria uma calculadora onde o usuário escolhe uma opção de operação (+, -, * ou /) e depois os dois valores que deseja utilizar, o programa imprime o resultado da operação. Existe uma quinta opção de sair do programa, mostrando uma mensagem "Até a próxima".
 
-<br>
 <br>
 
 ## 📌 Status do projeto: Concluído
@@ -49,7 +48,13 @@ Projeto desenvolvido utilizando as seguintes tecnologias:
 <li> CSS
 <li> JAVASCRIPT
 <br>
-      
+
+## 📷 Screenshots:
+
+<div align="center">
+   <h3><a target="_blank" href="https://logica-com-javascript.vercel.app">Página completa</h3></a>
+    <a target="_blank" href="https://logica-com-javascript.vercel.app">
+      <img width="74.8%" src="https://github.com/user-attachments/assets/7cfce96d-b2ec-4142-958c-10e20d837cb2" alt="7 Days Of Code - JavaScript"></a>
 </div>
 
 ## 👨🏻‍💻 Desenvolvedor:
