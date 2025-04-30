@@ -27,18 +27,35 @@ body {
 /* Content div for text and button */
 .content {
   text-align: center;
-  background-color: rgba(0, 0, 0, 0.5);
-  padding: 20px 40px;
-  border-radius: 8px;
+  background-color: rgba(0, 0, 0, 0.397);
+  padding: 10px 90px;
 }
 
 .content h2 {
-  margin-bottom: 50px;
-  font-size: 80px;
+  font-size: 5rem;
+}
+
+.content div{
+  border: solid 2px #1ABC9C;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 8px;
+}
+
+.content div:hover{
+  background-color: rgb(26, 26, 26);
+  box-shadow: 5px 5px 8px #1ABC9C;
+  transition: 0.2s;
+}
+
+.content div p{
+  text-align: start;
+  line-height: 20px;
+  margin: 10px;
 }
 
 /* Button Styles */
-button {
+.content div button {
   background-color: #ff1b7b;
   border: none;
   border-radius: 20px;
@@ -49,7 +66,7 @@ button {
   transition: background-color 0.3s ease;
 }
 
-button:hover {
+.content div button:hover {
   background-color: #1ABC9C;
 }
 

@@ -27,13 +27,13 @@ function calculadora(){
                 alert(`O resultado da operação é ${soma(valor1, valor2)}`)
                 break;
             case "2":
-                alert(`O resultado da operação é ${soma(valor1, valor2)}`)
+                alert(`O resultado da operação é ${subtracao(valor1, valor2)}`)
                 break;
             case "3":
-                alert(`O resultado da operação é ${soma(valor1, valor2)}`)
+                alert(`O resultado da operação é ${multiplicacao(valor1, valor2)}`)
                 break;
             case "4":
-                alert(`O resultado da operação é ${soma(valor1, valor2)}`)
+                alert(`O resultado da operação é ${divisao(valor1, valor2)}`)
                 break;
         }
         
@@ -46,22 +46,18 @@ function calculadora(){
 }
 
 function soma(valor1, valor2) {
-    alert("Função Soma")
     return Number(valor1) + Number(valor2);
 }
 
 function subtracao(valor1, valor2) {
-    alert("Função Menos")
     return Number(valor1) - Number(valor2);
 }
 
 function multiplicacao(valor1, valor2) {
-    alert("Função Vezes")
     return Number(valor1) * Number(valor2);
 }
 
 function divisao(valor1, valor2) {
-    alert("Função Divisao")
     return Number(valor1) / Number(valor2);
 }
 

@@ -63,20 +63,20 @@ function especialidadeBack () {
 
 // FUNCAO DA ESPECIALIZACAO
 function especializacao () {
-  let especializacao = prompt(`Você quer se especializar na área escolhida ou se tornar Fullstack? (S/N)`);
+  let especializacao = prompt(`Você quer se especializar na área escolhida (E) ou se tornar Fullstack? (F)`);
   especializacao = especializacao.toUpperCase();
 
-    if(especializacao != "S" && especializacao != "N") {
-      alert("Opção inválida, digita (S) para se especializar ou (N) para Fullstack");
+    if(especializacao != "E" && especializacao != "F") {
+      alert("Opção inválida, digita (E) para se especializar ou (F) para Fullstack");
       return especializacao();
     } 
-    else if (especializacao == "S") {
+    else if (especializacao == "E") {
       alert("Legal! Se especializar na área escolhida é uma ótima escolha.");
       let tecnologias = [];
       let maisTecnologias = "S";
       
       while (maisTecnologias.toUpperCase() === "S") {
-        let tecnologiaAdicional = prompt("Tem mais alguma tecnologia que você gostaria de aprender?");
+        let tecnologiaAdicional = prompt("Qual outra tecnologia você gostaria de aprender?");
         if(tecnologiaAdicional == "") {
           alert("Você não digitou nada!");
           continue;
@@ -86,7 +86,7 @@ function especializacao () {
       }
       alert(`As tecnologias que você gostaria de aprender são: ${tecnologias.join(" , ")}`);
     }
-    else if (especializacao == "N") {
+    else if (especializacao == "F") {
       alert("Legal! Se tornar Fullstack é uma ótima escolha.");
     }
 }
