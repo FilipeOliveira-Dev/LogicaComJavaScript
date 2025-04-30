@@ -48,4 +48,4 @@ function obterNumeroEntre1e10() {
         alert("Valor inválido. Por favor, digite um número inteiro entre 1 e 10.");
       }
     }
-  }
+}

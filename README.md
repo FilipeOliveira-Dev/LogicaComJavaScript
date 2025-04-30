@@ -12,19 +12,18 @@
 
   <h3><u>Descrição dos desafios:</u></h3>
   
-  <li> <b>Day 01 - </b> Reescrever o código enviado via "portugol", de maneira que ele imprima as informações de maneira correta, que faça sentido e sem erros:
-  <li> <b>Day 02 - </b> Faz 3 perguntas ao usuário, armazena as respostas e exibe elas na tela. Pergunta se o usuário gosta da linguagem e exibe uma resposta.
-  <li> <b>Day 03 - </b> Cria os destinos possíveis de um jogo, em que o usuário consiga escolher qual área e linguagens ele pretende estudar:
-  <li> <b>Day 04 - </b> Criar um programa que gere um número aleatório entre 0 e 10, e o usuário digita um número tentando advinhar. O programa dá 3 tentativas, e vai informando se o número secreto é maior ou menor do que ele digitou. O programa vai mostrando quantas tentativas o usuário ainda tem, e se não acertar, o programa mostra qual é o número secreto.
-  <li> <b>Day 05 - </b> Criar um programa que pergunta ao usuário se ele deseja colocar itens em uma lista de compras, e qual a categoria desse item. O programa vai registrando o que o usuário digita, e quando o usuário não quiser mais, ele mostra na tela todos os itens, separados por categoria.
-  <li> <b>Day 06 - </b> Criar a opção de remover algum item da lista, mostrando a lista atual. O programa remove o que o usuário pediu, e imprime a confirmação, caso não seja encontrado o item na lista, deverá exibir uma mensagem avisando.
-  <li> <b>Day 07 - </b>
-<br>
-   
+  <li> <b>Day 01 - </b> Reescrever o código enviado via "portugol", de maneira que ele imprima as informações de maneira correta, que faça sentido e sem erros: <br>
+  <li> <b>Day 02 - </b> Faz 3 perguntas ao usuário, armazena as respostas e exibe elas na tela. Pergunta se o usuário gosta da linguagem e exibe uma resposta. <br>
+  <li> <b>Day 03 - </b> Cria os destinos possíveis de um jogo, em que o usuário consiga escolher qual área e linguagens ele pretende estudar: <br>
+  <li> <b>Day 04 - </b> Cria um programa que gera um número aleatório entre 0 e 10, e o usuário digita um número tentando advinhar. Ele informa se o número secreto é maior ou menor. O programa dá 3 tentativas, mostra quantas ainda faltam e se não acertar, o programa mostra qual é o número secreto. <br>
+  <li> <b>Day 05 - </b> Cria um programa de lista de compras, o usuário digita o item e a categoria. O programa registra os itens, e quando o usuário não quiser mais, ele mostra todos os itens, separados por categoria. <br>
+  <li> <b>Day 06 - </b> Cria a opção de remover algum item da lista, mostrando a lista atual. O programa remove o que o usuário pediu, e imprime a confirmação, caso não seja encontrado o item na lista, deverá exibir uma mensagem avisando.
+  <li> <b>Day 07 - </b> Cria uma calculadora onde o usuário escolhe uma opção de operação (+, -, * ou /) e depois os dois valores que deseja utilizar, o programa imprime o resultado da operação. Existe uma quinta opção de sair do programa, mostrando uma mensagem "Até a próxima".
 
 <br>
+<br>
 
-## 📌 Status do projeto: Em Andamento
+## 📌 Status do projeto: Concluído
 
 <li> <b>Day 01 - </b> Operações Booleanas ✅
 <li> <b>Day 02 - </b> Variáveis ✅
@@ -32,7 +31,12 @@
 <li> <b>Day 04 - </b> Mais loops e randomização ✅
 <li> <b>Day 05 - </b> Arrays e coleções ✅
 <li> <b>Day 06 - </b> Remoção de Arrays ✅
-<li> <b>Day 07 - </b> Funções em Javascript
+<li> <b>Day 07 - </b> Funções em Javascript ✅
+<br>
+
+<u>Conteúdos Adicionais:</u>
+   <li> Página para exibição e processamento dos desafios.
+   <li> Página criada com HTML e CSS, baseada na página de inscrição do 7 Days of Code.
 <br>
 <br>
 

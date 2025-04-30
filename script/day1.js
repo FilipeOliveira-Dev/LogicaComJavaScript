@@ -1,6 +1,6 @@
 // DESAFIO 01 - Operações Booleanas
 
-// Reescrever o código abaixo de maneira que ele imprima as informações de maneira correta, que faça sentido e sem erros:
+  // Reescrever o código abaixo de maneira que ele imprima as informações de maneira correta, que faça sentido e sem erros:
 
   // let numeroUm = 1
   // let stringUm = '1'

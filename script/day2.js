@@ -39,4 +39,4 @@ function dadosUsuario () {
     else {
       alert("Resposta inválida. Por favor, responda apenas com 'S' ou 'N'.");
     }
-  }
+}
