@@ -36,6 +36,7 @@
 <u>Conteúdos Adicionais:</u>
    <li> Página para exibição e processamento dos desafios.
    <li> Página criada com HTML e CSS, baseada na página de inscrição do 7 Days of Code.
+   <li> Página responsiva, adaptada para Tablet e Mobile.
 <br>
 <br>
 
