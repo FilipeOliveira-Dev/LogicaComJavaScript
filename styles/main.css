@@ -1,0 +1,125 @@
+@import url('/styles/variaveis.css');
+@import url('/styles/reset.css');
+
+/* Global Styles */
+body {
+  background-color: var(--color-bg-body);
+  font-family: var(--font-principal);
+  color: var(--color-font-white);
+  margin: 0 70px;
+}
+
+/* Logo Styles */
+.logo__header {
+  position: absolute;
+  top: 20px;
+  right: 100px;
+  max-width: 100px;
+  width: auto;
+}
+
+/* Container Styles */
+.container__banner {
+  background: url('/assets/Logo.png') no-repeat center center/cover;
+  min-height: 50vh;
+}
+
+.content {
+  text-align: center;
+  background-color: var(--color-bg-content);
+  padding: 40px;
+}
+
+.content h2 {
+  font-size: 5vw;
+}
+
+.content div{
+  border: solid 2px var(--color-hover-azul);
+  border-radius: 8px;
+  padding: 20px;
+  margin: 20px 0;
+}
+
+.content div:hover{
+  background-color: rgb(26, 26, 26);
+  box-shadow: 5px 5px 8px var(--color-hover-azul);
+  transition: 0.2s;
+}
+
+.content div p{
+  text-align: start;
+  line-height: 20px;
+  margin-top: 20px;
+}
+
+/* Button Styles */
+.content div button {
+  background-color: var(--color-botao-rosa);
+  border: none;
+  border-radius: 20px;
+  padding: 10px 20px;
+  font-size: 1.2em;
+  color: var(--color-font-white);
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.content div button:hover {
+  background-color: var(--color-hover-azul);
+}
+
+/* Footer Styles */
+footer p {
+  text-align: center;
+  padding: 10px;
+}
+
+
+@media (max-width: 990px) {
+    body {
+        margin: 0 50px;
+    }
+
+    .logo__header{
+      display: none;
+    }
+
+    .container__banner {
+      min-height: 30vh;
+    }
+
+    .content {
+      padding: 20px;
+    }
+
+    .content div p,
+    footer p{
+      margin-top: 10px;
+      font-size: 14px;
+    }
+
+    .content div button {
+      font-size: 1em;
+    }
+}
+
+
+@media (max-width: 625px) {
+    body {
+      margin: 0 10px;
+    }
+
+    .container__banner {
+      min-height: 20vh;
+    }
+
+    .content div p,
+    footer p{
+      font-size: 12px;
+    }
+
+    .content div button {
+    font-size: 0.8em;
+    }
+}

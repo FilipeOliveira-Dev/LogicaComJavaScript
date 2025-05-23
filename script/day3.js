@@ -11,7 +11,7 @@
 
 // FUNCAO DE DECISAO DE CARREIRA INICIAL
 function decisaoDeCarreira () {
-  let area = prompt("Você quer seguir para a área de Front-End ou Back-End? (F/B)");
+  let area = prompt(`Você quer seguir para a área de Front-End ou Back-End? (F/B)`);
   area = area.toUpperCase();
 
     if(area != "F" && area != "B") {

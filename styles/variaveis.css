@@ -1,0 +1,10 @@
+:root{
+    --font-principal: "Arial", sans-serif;
+    --color-font-white: white;
+
+    --color-bg-body: #14161C;
+    --color-bg-content: rgba(0, 0, 0, 0.397);
+
+    --color-botao-rosa: #ff1b7b;
+    --color-hover-azul: #1ABC9C;
+}
